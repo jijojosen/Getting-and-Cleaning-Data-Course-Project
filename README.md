@@ -1,7 +1,6 @@
 Course project for the Getting and Cleaning course. The R script, run_analysis.R, does the following:
-\newline
+
 Download the dataset if it does not already exist in the working directory.
-\newline
 Load the features.
 Loads both the training and test datasets.
 Merge the training and testing data sets.
